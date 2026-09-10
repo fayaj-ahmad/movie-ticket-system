@@ -156,6 +156,6 @@ Possible future enhancements include:
 
 ## 👨‍💻 Author
 
-**Ashutosh Rathour**
+**Fayaj Ahmad**
 
 This project was developed as a practical implementation of **C++ OOP and System Design concepts**.
